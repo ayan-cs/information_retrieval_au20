@@ -1,7 +1,9 @@
 # information_retrieval_au20
 Information Retrieval assignment solutions done by me.
--**Course Code** - ECS44204 (Elective)
--**Instructor** : Mr. Dipanjan Banerjee, _Asst. Prof. of CSE, Dept. of CSE, Adamas University, Kolkata_
+
+- **Course Code** : ECS44204 (Elective)
+- **Run** : Spring 2020
+- **Instructor** : Mr. Dipanjan Banerjee, _Asst. Prof. of CSE, Dept. of CSE, Adamas University, Kolkata_
 
 The Assignment questions cover some basic topics on Text Retrieval such as -
 - Tokenization using `sent_tokenize` or `word_tokenize` as well as logical code
