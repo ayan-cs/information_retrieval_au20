@@ -1,0 +1,1 @@
+Functions definitions create a new local scope for variables. When we assign to a new variable inside the body of a function, the name is defined only within that function. The name is not visible outside the function, or in other functions. This behavior means we can choose variable names without being concerned about collisions with names used in other functions.
